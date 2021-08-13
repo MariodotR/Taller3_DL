@@ -1,7 +1,7 @@
 Entrega del taller 3 del curso de deep learning junto a mis compañeros Maximiliano R. y Hugo R. Investigamos la comparación de arquitecturas encoder-decoder vs mecanismo atencional, y una competencia de predicción de la velocidad del viento.
 
 
-Video:
+Video: https://youtu.be/Jvb2EjfeS1s
 
 
 

@@ -1,3 +1,16 @@
+Entrega del taller 3 del curso de deep learning junto a mis compañeros Maximiliano R. y Hugo R. Investigamos la comparación de arquitecturas encoder-decoder vs mecanismo atencional, y una competencia de predicción de la velocidad del viento.
+
+
+Video:
+
+
+
+
+
+
+
+
+
 # Conda environment with environment.yml
 
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb)
